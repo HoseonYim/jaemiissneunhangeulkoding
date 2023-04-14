@@ -1,0 +1,26 @@
+#include <stdio.h>
+
+#define 메인 main
+#define 출력 printf
+#define 입력 scanf
+#define 등호 =
+#define 앞소괄호 (
+#define 뒤소괄호 )
+#define 앞중괄호 {
+#define 뒤중괄호 }
+#define 앞대괄호 [
+#define 뒤대괄호 ]
+
+#define 정수 int
+#define 실수 float
+#define 문자 char
+#define 큰실수 double
+#define 큰 long
+
+#define 반복 for
+#define 하는동안 while
+#define 만약 if
+
+정수 메인 앞소괄호 뒤소괄호 앞중괄호
+	출력 앞소괄호 " 안녕 세계 " 뒤소괄호 ;
+뒤중괄호
